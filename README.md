@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming and creating solution that solve real world problem
 - 🌱 As an programming enthusiast it is interesting to learn and know Kotlin, Android Studio, MERN, Go, Python, Java. Not an expert in these but it is fun getting your hands dirty.
 - 💞️ I’m looking to collaborate on any open source project in PHP
-- 📫 Reach me https://www.linkedin.com/in/soodssr/
+- 📫 Also active on [LinkedIn](https://www.linkedin.com/in/soodssr/) and [Twitter](https://twitter.com/SSRSood) 
 
 <!---
 soodssr/soodssr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
